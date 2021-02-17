@@ -1,0 +1,3 @@
+Text of error.txt file
+This is the change.
+This is another change.
